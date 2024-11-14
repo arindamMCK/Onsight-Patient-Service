@@ -63,7 +63,7 @@
 
     </dependencies>
     <build>
-        <finalName>onsight-common-services</finalName>
+        <finalName>onsight-patient-services</finalName>
         <plugins>
 
             <plugin>
